@@ -25,9 +25,10 @@ A full-stack web application built with **Python Django** to manage personal exp
 | Railway | Deployment |
 
 ## 📸 Screenshots
-![Login](Screenshot%202026-06-27%20163005.png)
-![Dashboard](Screenshot%202026-06-27%20163059.png)
 ![Expenses](Screenshot%202026-06-27%20163132.png)
+![Dashboard](Screenshot%202026-06-27%20163059.png)
+![Login](Screenshot%202026-06-27%20163005.png)
+
 
 ## 🚀 Run Locally
 ```bash
